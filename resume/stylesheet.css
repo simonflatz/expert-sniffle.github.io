@@ -1,16 +1,16 @@
-body{ background-color: #ff0066;
+body{ background-color: #000000;
   
 }
 h1{ 
   font-family: Arial;
   color: green;
   text-align: center;
-  background-color: #ffffff;
+  background-color: #000000;
 }
 h2{
-  color: #ffff00;
+  color: #000000;
 }
-title{ color: #ff8533;
+title{ color: #000000;
 }
 ul{ 
 }
